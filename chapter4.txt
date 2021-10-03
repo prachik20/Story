@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the test file
+=======
+this is the scrap file
+>>>>>>> test1
